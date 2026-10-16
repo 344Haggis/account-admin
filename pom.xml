@@ -6,7 +6,7 @@
 
   <groupId>za.ac.sun.cs.s12</groupId>
   <artifactId>account-admin</artifactId>
-  <version>3.2.0</version>
+  <version>3.3.0</version>
   <packaging>jar</packaging>
 
   <properties>
@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>5.10.2</junit.version>
     <!-- The release event overrides this: -Dstatus-core.version=2.0.0 -->
-    <status-core.version>1.5.0</status-core.version>
+    <status-core.version>2.0.0</status-core.version>
   </properties>
 
   <dependencies>
